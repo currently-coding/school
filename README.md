@@ -3,7 +3,7 @@
 - [Was sollte hochgeladen werden?](#was-sollte-hochgeladen-werden)
 - [Format](#format)
 - [Installation](#installation)
-- [Shortcuts](#Shortcuts)
+- [Shortcuts](#Hotkeys)
 
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
@@ -78,19 +78,29 @@
 Obsidian ist nun vollständig eingerichtet und wird automatisch alle 5 Minuten den lokalen Stand auf github.com/currently-coding/school hochladen und den dortigen Stand ergänzen.
 
 
-## Shortcuts
-| Action                      | Hotkey          |
-| --------------------------- | --------------- |
-| Toggle Sidebar              | ctrl shift b    |
-| Backup Vault                | ctrl s          |
-| switch reading/editing view | ctrl r          |
-| extract current headign     | ctrl e          |
-| find or create note         | ctrl o          |
-| find in current note        | ctrl f          |
-| find in vault               | ctrl shift f    |
-| find/replace                | ctrl h          |
-| settings                    | ctrl ,          |
-| command palette             | ctrl p          |
-| rename file                 | f2              |
-| switch tabs                 | ctrl tab number |
-|                             |                 |
+## Hotkeys
+
+| Action                           | Hotkey                            |
+| -------------------------------- | --------------------------------- |
+| Toggle Sidebar                   | `ctrl + shift + b`                |
+| Toggle Quick Switcher            | `ctrl + o`                        |
+| Toggle Command Palette           | `ctrl + p`                        |
+| Toggle Outline                   | `ctrl + shift + o`                |
+| Toggle Backlinks                 | `ctrl + shift + e`                |
+| Toggle Graph View                | `ctrl + shift + g`                |
+| New Note                         | `ctrl + n`                        |
+| Save                             | `ctrl + s`                        |
+| Search in Current Note           | `ctrl + f`                        |
+| Search in All Notes              | `ctrl + shift + f`                |
+| Extract current heading          | `ctrl + e`                        |
+| Switch Reading/Live Preview Mode | `ctrl + r`                        |
+| Toggle Full Screen               | `F11`                             |
+| Rename File                      | `F2`                              |
+| Undo Tab Close                   | `ctrl + shift + t`                |
+| toggle right sidebar             | `ctrl + alt + b`                  |
+| Toggle Current Note Graph        | `ctrl + shift + g`                |
+| Toggle Graph Overview            | `ctrl + g`                        |
+| Copy Heading Link                | `ctrl + alt + c`                  |
+| Toggle Developer Tools           | `ctrl + shift + i`                |
+| Open Command Palette             | `ctrl + p`                        |
+| Switch to Next/Previous Tab      | `ctrl + tab / ctrl + shift + tab` |

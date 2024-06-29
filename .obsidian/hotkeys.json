@@ -20,14 +20,6 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "note-composer:extract-heading": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
@@ -59,6 +51,23 @@
         "Mod"
       ],
       "key": "N"
+    }
+  ],
+  "note-composer:merge-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
     }
   ]
 }
