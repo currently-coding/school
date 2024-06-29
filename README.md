@@ -44,7 +44,7 @@
 - um Notizen später gruppieren zu können
 	- Karteikarten
 	- schnelles Suchen von Themen
--> Tags in den `tags` Abschnitt unter der Überschrift reinschreiben
+-> Tags in den `tags` Abschnitt unter der Überschrift reinschreiben(min. Fachnamen)
 
 
 ## Installation
@@ -76,6 +76,3 @@
    7. Unter `Commit Author` -> `Author email for commit` eine valide E-Mail Adresse hinterlegen
 
 Obsidian ist nun vollständig eingerichtet und wird automatisch alle 5 Minuten den lokalen Stand auf github.com/currently-coding/school hochladen und den dortigen Stand ergänzen.
-
-
-[[Hotkeys]]
