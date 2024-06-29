@@ -35,3 +35,5 @@
 	2. Den gerade durch das Klonen erstellten Ordner auswählen
 	3. `Trust author and enable plugins` auswählen
 		1. Falls eine Fehlermeldung erscheint, dass `ExcaliBrain Disabled` ist `Obsidian neu starten`
+---
+	4. 
