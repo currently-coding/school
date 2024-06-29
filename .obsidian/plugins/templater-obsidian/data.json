@@ -15,14 +15,22 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Templates",
+      "folder": "Settings/Templates",
       "template": "Settings/Templates/Template Template.md"
+    },
+    {
+      "folder": "Chemie",
+      "template": "Settings/Templates/Chemie Template.md"
+    },
+    {
+      "folder": "Informatik",
+      "template": "Settings/Templates/Informatik Template.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Template Template.md"
+    ""
   ],
   "startup_templates": [
     ""
