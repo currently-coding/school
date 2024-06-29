@@ -32,3 +32,6 @@
 2. Öffne `Obsidian`
 	1. Wähle `open` aus, um einen Ordner als Vault zu öffnen
 		1. Falls sich bereits ein Vault öffnet/dieses Menü nicht sichtbar ist `<ctrl\> + p` drücken und `open another vault` eingeben und auswählen
+	2. Den gerade durch das Klonen erstellten Ordner auswählen
+	3. `Trust author and enable plugins` auswählen
+		1. Falls eine Fehlermeldung erscheint, dass `ExcaliBrain Disabled` ist `Obsidian neu starten`
