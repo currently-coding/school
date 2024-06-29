@@ -31,4 +31,4 @@
 	2. `git clone <link>` in CMD/Terminal/Console ausführen
 2. Öffne `Obsidian`
 	1. Wähle `open` aus, um einen Ordner als Vault zu öffnen
-		1. Falls sich bereits ein Vault öffnet/dieses Menü nicht sichtbar ist <ctrl\> + p drücken und `open another vault` eingeben und auswählen
+		1. Falls sich bereits ein Vault öffnet/dieses Menü nicht sichtbar ist `<ctrl\> + p` drücken und `open another vault` eingeben und auswählen
