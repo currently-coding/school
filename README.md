@@ -31,7 +31,7 @@
 - um mehr Informationen zu einem Thema anzugeben
 -> Links in den Notizen verwenden
 ```markdown
-... Oxidation von \[\[0332 Alkohole|Alkoholen]]
+... Oxidation von [[0332 Alkohole|Alkoholen]]
 ```
 
 #### Tags
