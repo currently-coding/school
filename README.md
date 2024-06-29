@@ -8,7 +8,7 @@
 
 ## Was sollte hochgeladen werden ?
 - Zusammenfassung eines kleinen Themengebiets(1-5 Schulstunden)
-- Gerne auch Studiumsinhalte -> Mit #studium [[#Links vs Tags - Was wann verwenden|tag]] markieren
+- Gerne auch Studiumsinhalte -> Mit #studium  [[#Links vs Tags - Was wann verwenden]]markieren
 ## Format
 ### Ordnerstruktur
  - **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusamenfassung**
