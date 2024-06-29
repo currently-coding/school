@@ -8,24 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#chemie  ",
-      "color": {
-        "a": 1,
-        "rgb": 13463807
-      }
-    },
-    {
-      "query": "tag:#latein",
-      "color": {
-        "a": 1,
-        "rgb": 16736609
-      }
-    },
-    {
       "query": "path:Templates  ",
       "color": {
         "a": 1,
         "rgb": 8026746
+      }
+    },
+    {
+      "query": "path:Chemie  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Latein  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Informatik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Physik  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Geschichte  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -40,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }
