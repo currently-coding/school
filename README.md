@@ -1,9 +1,12 @@
 ## Inhalt
 - [Ziel](#Ziel)
+- [Was sollte hochgeladen werden?](#Was sollte hochgeladen werden?)
+- [Format](#Format)
+- [Installation](#Installation)
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
 
-## Was sollte hochgeladen werden ?
+## Was sollte hochgeladen werden?
 - Zusammenfassung eines kleinen Themengebiets(1-5 Schulstunden)
 - Gerne auch Studiumsinhalte -> Mit #studium markieren
 ## Format
