@@ -7,6 +7,7 @@
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
 
+
 ## Was sollte hochgeladen werden?
 - Zusammenfassung eines kleinen Themengebiets (1-5 Schulstunden)
 - Gerne auch Studiumsinhalte -> Mit #studium markieren
@@ -17,8 +18,6 @@
 
 ### Dateinamen
 - `<ID> <Name>`
-
-
 - `0341 Oxidation von Alkoholen`
   - `03`: Chemie
   - `4`: Übergeordnetes Thema Nummer 4
