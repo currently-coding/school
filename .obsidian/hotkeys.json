@@ -69,5 +69,13 @@
       ],
       "key": "E"
     }
+  ],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }
