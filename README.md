@@ -6,6 +6,9 @@
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
 
+## Was sollte hochgeladen werden ?
+- Zusammenfassung eines kleinen Themengebiets(1-5 Schulstunden)
+- Gerne auch Studiumsinhalte -> Mit #studium [[#Links vs Tags - Was wann verwenden|tag]] markieren
 ## Format
 ### Ordnerstruktur
  - **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusamenfassung**
@@ -19,11 +22,16 @@
 => Schnelles Navigieren mittels Suche\
 => Sortierte Darstellung in Vault
 
+### Karteikarten
+
+### Links vs Tags - Was wann verwenden
+
+
 ## Installation
 - Voraussetzungen
-	- `Git` installiert
-	- `Obsidian` installiert
-	- `API Token` erhalten
+	- `Git` installiert -> https://git-scm.com/downloads
+	- `Obsidian` installiert -> https://obsidian.md/download
+	- `API Token` erhalten -> Bei mir nachfragen
 1. Klone das `git` repository
 	1. Bereite einen Link in diesem Format vor:
 		`https://<API Token>@github.com/<username>/<repository>.git`
@@ -35,5 +43,13 @@
 	2. Den gerade durch das Klonen erstellten Ordner auswählen
 	3. `Trust author and enable plugins` auswählen
 		1. Falls eine Fehlermeldung erscheint, dass `ExcaliBrain Disabled` ist `Obsidian neu starten`
----
-	4. 
+3. Git Plugin einrichten
+	1. `<ctrl> + ,`
+	2. `community plugins` auswählen
+	3. Unter `Installed Plugins` `Git` auswählen, indem man auf das Zahnrad(`Options`) drückt
+	4. **WICHTIG**: Einstellungen unter `Automatic` nicht verändern, außer man ist sich den Veränderungen bewusst
+	5. Unter `Commit Message` -> `{{hostname}} placeholder replacement` bitte Initialen eingeben.(Verwendet um nachvollziehen zu können, wer Veränderungen gemacht hat)
+	6. Unter `Commit Author` -> `Author Name for commit` ebenfalls Initialen eingeben
+	7. Unter `Commit Author` -> `Author email for commit` eine valide E-Mail Adresse hinterlegen
+
+Obsidian ist nun vollständig einrichtet und wird automatisch alle 5 Minuten den lokalen Stand auf github.com/currently-coding/school hochladen und den dortigen Stand ergänzen.
