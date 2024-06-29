@@ -27,6 +27,19 @@
 ### Karteikarten
 
 ### Links vs Tags - Was wann verwenden
+#### Links
+- um mehr Informationen zu einem Thema anzugeben
+-> Links in den Notizen verwenden
+```markdown
+... Oxidation von \[\[0332 Alkohole|Alkoholen]]
+```
+
+#### Tags
+- um Notizen später gruppieren zu können
+	- Karteikarten
+	- schnelles Suchen von Themen
+-> Tags in den `tags` Abschnitt unter der Überschrift reinschreiben
+
 
 ## Installation
 - Voraussetzungen
@@ -36,7 +49,7 @@
 
 1. Klone das `git` repository
    1. Bereite einen Link in diesem Format vor:
-      `https://<API Token>@github.com/<username>/<repository>.git`
+      `https://<API Token>@github.com/<username>/<repository>.git`\
       `https://<API Token>@github.com/currently-coding/school.git`
    2. `git clone <link>` in CMD/Terminal/Console ausführen
 
