@@ -16,6 +16,9 @@
 - **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusammenfassung**
 
 ### Dateinamen
+- `<ID> <Name>`
+
+
 - `0341 Oxidation von Alkoholen`
   - `03`: Chemie
   - `4`: Übergeordnetes Thema Nummer 4
@@ -31,8 +34,11 @@
 - um mehr Informationen zu einem Thema anzugeben
 -> Links in den Notizen verwenden
 ```markdown
-... Oxidation von [[0332 Alkohole|Alkoholen]]
+...Oxidation von [[0332 Alkohole|Alkoholen]]...
 ```
+##### Links erstellen
+- `[[<Dateiname>|<Name der im Text erscheinen soll>]]` -> verlinkt gesamte Notiz
+- `[[<Dateiname>#<Überschrift>|<Name der im Text erscheinen soll>]]` -> Verlinkt direkt zu Überschrift
 
 #### Tags
 - um Notizen später gruppieren zu können
