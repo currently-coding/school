@@ -7,7 +7,6 @@
 - LaTeX syntax
 ## Chemie
 ${CO2 + C -> 2 CO}$
-
 $\ce{ HG^2+ -> HgI2  -> [Hg^{II}I4]^2}$$
 
 
@@ -21,5 +20,18 @@ O=C=O=C=O=C=O=C=O
 C1=CC=C=C1
 ```
 ```smiles
-C[6]H[12]0[6]
+CC(C)C(=O)C(C)C
+```
+
+```smiles
+C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C(C))))))))))))))))))))C
+```
+
+```smiles
+OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)1
+```
+`OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)1`
+
+```smiles
+O=C[C@@H](O1)
 ```
