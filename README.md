@@ -3,6 +3,7 @@
 - [Was sollte hochgeladen werden?](#was-sollte-hochgeladen-werden)
 - [Format](#format)
 - [Installation](#installation)
+- [Shortcuts](#Shortcuts)
 
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
@@ -75,3 +76,21 @@
    7. Unter `Commit Author` -> `Author email for commit` eine valide E-Mail Adresse hinterlegen
 
 Obsidian ist nun vollständig eingerichtet und wird automatisch alle 5 Minuten den lokalen Stand auf github.com/currently-coding/school hochladen und den dortigen Stand ergänzen.
+
+
+## Shortcuts
+| Action                      | Hotkey          |
+| --------------------------- | --------------- |
+| Toggle Sidebar              | ctrl shift b    |
+| Backup Vault                | ctrl s          |
+| switch reading/editing view | ctrl r          |
+| extract current headign     | ctrl e          |
+| find or create note         | ctrl o          |
+| find in current note        | ctrl f          |
+| find in vault               | ctrl shift f    |
+| find/replace                | ctrl h          |
+| settings                    | ctrl ,          |
+| command palette             | ctrl p          |
+| rename file                 | f2              |
+| switch tabs                 | ctrl tab number |
+|                             |                 |

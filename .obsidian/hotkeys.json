@@ -8,14 +8,6 @@
       "key": "G"
     }
   ],
-  "file-explorer:new-file-in-current-tab": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "file-explorer:new-file": [],
   "templater-obsidian:create-new-note-from-template": [
     {
@@ -59,6 +51,14 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }
