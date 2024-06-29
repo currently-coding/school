@@ -1,14 +1,11 @@
 ## Inhalt
-- [[README#Ziel|Ziel]]
-- [[README#Inhalt|Format]]
-- [[README#Installation|Installation]]
-
+- [Ziel](#Ziel)
 ## Ziel
 - Wikipedia-ähnliche Sammlung an Notizen
 
 ## Was sollte hochgeladen werden ?
 - Zusammenfassung eines kleinen Themengebiets(1-5 Schulstunden)
-- Gerne auch Studiumsinhalte -> Mit #studium  [[#Links vs Tags - Was wann verwenden]]markieren
+- Gerne auch Studiumsinhalte -> Mit #studium markieren
 ## Format
 ### Ordnerstruktur
  - **ROOT -> FACH -> Übergeordnetes THEMA -> Untergeordnetes THEMA -> Notiz/Zusamenfassung**
