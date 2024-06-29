@@ -1,6 +1,6 @@
 ## Inhalt
 - [Ziel](#Ziel)
-- [Was sollte hochgeladen werden?](#Was sollte hochgeladen werden?)
+- [Was sollte hochgeladen werden?](#'Was sollte hochgeladen werden?')
 - [Format](#Format)
 - [Installation](#Installation)
 ## Ziel
